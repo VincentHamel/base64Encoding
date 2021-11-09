@@ -1,0 +1,16 @@
+D:\Entrevue\dialogInsight\EncodingTest\base64Encoding\bin\Debug\net5.0\MyApp.exe
+D:\Entrevue\dialogInsight\EncodingTest\base64Encoding\bin\Debug\net5.0\MyApp.deps.json
+D:\Entrevue\dialogInsight\EncodingTest\base64Encoding\bin\Debug\net5.0\MyApp.runtimeconfig.json
+D:\Entrevue\dialogInsight\EncodingTest\base64Encoding\bin\Debug\net5.0\MyApp.runtimeconfig.dev.json
+D:\Entrevue\dialogInsight\EncodingTest\base64Encoding\bin\Debug\net5.0\MyApp.dll
+D:\Entrevue\dialogInsight\EncodingTest\base64Encoding\bin\Debug\net5.0\ref\MyApp.dll
+D:\Entrevue\dialogInsight\EncodingTest\base64Encoding\bin\Debug\net5.0\MyApp.pdb
+D:\Entrevue\dialogInsight\EncodingTest\base64Encoding\obj\Debug\net5.0\MyApp.csproj.AssemblyReference.cache
+D:\Entrevue\dialogInsight\EncodingTest\base64Encoding\obj\Debug\net5.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Entrevue\dialogInsight\EncodingTest\base64Encoding\obj\Debug\net5.0\MyApp.AssemblyInfoInputs.cache
+D:\Entrevue\dialogInsight\EncodingTest\base64Encoding\obj\Debug\net5.0\MyApp.AssemblyInfo.cs
+D:\Entrevue\dialogInsight\EncodingTest\base64Encoding\obj\Debug\net5.0\MyApp.csproj.CoreCompileInputs.cache
+D:\Entrevue\dialogInsight\EncodingTest\base64Encoding\obj\Debug\net5.0\MyApp.dll
+D:\Entrevue\dialogInsight\EncodingTest\base64Encoding\obj\Debug\net5.0\ref\MyApp.dll
+D:\Entrevue\dialogInsight\EncodingTest\base64Encoding\obj\Debug\net5.0\MyApp.pdb
+D:\Entrevue\dialogInsight\EncodingTest\base64Encoding\obj\Debug\net5.0\MyApp.genruntimeconfig.cache

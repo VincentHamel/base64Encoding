@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Vhamel\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Vhamel\\.nuget\\packages"
+    ]
+  }
+}
